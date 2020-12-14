@@ -1,4 +1,3 @@
-
 #!/bin/bash/ -x
 read a
 read b
